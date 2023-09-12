@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(238, 232, 232);
+}
+
+.container {
+    margin: auto;
+    margin-top: 3rem;
+    text-align: center;
+    background-color: rgb(158, 183, 146);
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+
+}
+
+h2 {
+    padding-top: 15px;
+    padding-bottom: 5px;
+    border-bottom: 1px rgb(14, 8, 8) solid;
+    color: rgb(32, 41, 35);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p{
+    margin: 25px;
+    background-color: rgb(197, 193, 188);
+    border-radius: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+button {
+    margin-top: 20px;
+    background-color: rgb(155, 183, 142);
+    width: 160px;
+    height: 30px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
